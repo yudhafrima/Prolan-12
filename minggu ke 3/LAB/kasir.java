@@ -1,6 +1,6 @@
 public class kasir {
     protected String  nama,JenisKelamin,jenis;
-		Integer  umur;
+		Byte  umur;
 
   protected void MelayaniTransaksi(){
 	System.out.println("Melayani transaksi");
