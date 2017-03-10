@@ -1,6 +1,6 @@
 public class restaurant {
 	private String  nama,JenisKelamin,jenis;
-			int  umur;
+			Byte  umur;
 	
 	private void makan () {
 		System.out.println ("Makan di restaurant");
