@@ -1,6 +1,6 @@
 public class koki {
     protected String  nama,JenisKelamin,jenis;
-		Integer  umur;
+		Byte  umur;
 
   protected void TukangMasak(){
 	System.out.println("Tukang masak di restaurant");
