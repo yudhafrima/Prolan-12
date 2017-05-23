@@ -1,3 +1,0 @@
-
-Interface Tag adalah istilah Java. Ini adalah Interface kosong yang diterapkan kelas untuk mengklaim keanggotaan dalam satu set. Misalnya, 
-jika sebuah kelas menerapkan interface Serializable, ia mengklaim dapat serializable - untuk menjadi anggota rangkaian kelas serializable.
