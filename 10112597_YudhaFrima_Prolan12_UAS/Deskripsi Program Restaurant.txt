@@ -1,0 +1,37 @@
+Dokumentasi program Restaurant
+
+NIM   : 10112597
+Nama  : Yudha Frima
+Kelas : Prolan - 12
+
++************************************************************************************************************************************************************************************************************************************+
+
+1. Deskripsi Program : Program ini menggambarkan tentang keterangan untuk membooking sebuah meja pada sebuah restaurant yang digunakan oleh karyawan atau pegawai untuk menjadi catatan singkat dalam transaksi booking sebuah restaurant.
+
+dalam program ini berisi :
+
+- keterangan membooking meja
+  dalam bagian ini costumer akan membooking meja sesuai dengan kebutuhan 
+- memilih jumlah kursi pada meja
+  dalam pilihan ini costumer bisa memilih berapa jumlah kersi yang dibutuhkan bisa untuk 2 orang , 4 orang , 6 orang dan seterusnya 
+- memilih area meja
+  dalam pilihan ini costumer bisa memilih juga area mana yang diinginkan , bisa smoking area atau nonsmoking area 
+- jadwal booking yang berisi catatan booking
+  pada jadwal terdapat tampilan berapa orang yang telah memboking pada restaurant in
+- dan catatan dari tim yang membooking yang bisa diubah oleh pengguna
+  bagian ini memunculkan informasi tentang catan biaya tim pebooking  
+
+2. Cara menggunakan Program :
+
+- Program ini diperuntukan pada karyawan di sebuah restaurant
+- Pada program ini terdapat beberapa pilihan menu seperti booking meja,memilih jumlah kursi pada meja dan memilih area meja (smoking atau nonsmoking area) , dan memilih kebutuhan lainnya
+
+3. Keterkaitan dengan OOP
+
+- Pada bagian kelas smokingarea melakukan proses Inheritance dari kelas Table 
+- Kelas Abstract di tunjukan pada kelas Table .
+- Abstract Method ditunjukan pada method DPlapang, lunas, belumlunas, hutanglapang, dendalapang di kelas Interface sewa.
+- Interface di tunjukan pada Interfacesewa yang di implementasikan pada kelas Raaft, Saba dan DISC.
+- Generic class di tunjukan pada kelas Book.
+- Generic Method di tunjukan pada method di kelas Book.
+- encapsulation , getter dan setter di tujukan pada kelas Booking, Table  dan MainScreen.  
