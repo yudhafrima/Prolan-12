@@ -5,7 +5,7 @@ Nim : 	10112597
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PERTEMUAN	|	MATERI				|	PENJELASAN			                                                                                                                                                                                                             | FOLDER GITHUB
 I		|	Pengenalan Java			|	Menjelaskan Java, Sejarah Java,                                                                                                                                                                                                                            | 	Prolan-12/minggu ke 1
-		|					|	Java Adalah Java adalah sebuah bahasa pemrograman yang 									                  |
+		|					|	Java adalah sebuah bahasa pemrograman yang 									                  |
 		|					|	berdasarkan OOP (Object Oriented Programing) yang pada                                                                                                                                                                              |
 		|					|	awalnya dikembangkan oleh SUN kemudian sekarang diakuisisi 									|
 		|					|	dan dikembangkan oleh ORACLE												|
